@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Diya 👋
 
-<!--
-**Sharma-Diya/Sharma-Diya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Engineer | 🌍 Web Developer | 🎨 Web Designer
 
-Here are some ideas to get you started:
+I'm passionate about building web applications that are user-friendly, scalable, and impactful. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently working on [Wander Map]
+- 🌱 Learning **AI-powered features for web apps**
+- ⚡ Fun fact: I love traveling & exploring new places 🏔️✈️
+
+## 🛠️ Tech Stack
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+
+## 📈 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+## 🌍 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]www.linkedin.com/in/
+diya-sharma-ca
+
